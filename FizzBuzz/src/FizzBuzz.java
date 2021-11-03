@@ -5,7 +5,7 @@ public static void main(String args[])
 {  
 //constructor of the scanner class  
 Scanner sc = new Scanner(System.in);  
-System.out.print("Enter the number: ");  
+System.out.print("Enter the number:  ");  
 //reads an integer from the user  
 int n = sc.nextInt();  
 System.out.println("The Fizz, Buzz, and FizzBuzz numbers are: ");  
