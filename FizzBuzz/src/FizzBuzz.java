@@ -8,7 +8,7 @@ Scanner sc = new Scanner(System.in);
 System.out.print("Enter the number: ");  
 //reads an integer from the user  
 int n = sc.nextInt();  
-System.out.println("The Fizz, Buzz, and FizzBuzz numbers are: ");  
+System.out.println("The Fizz,  Buzz, and FizzBuzz numbers are: ");  
 //for loop executes until the condition i<=n becomes false  
 for (int i = 1; i <= n; i++)   
 {  
